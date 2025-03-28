@@ -544,6 +544,31 @@
         }
       ],
       "uuid": "074d533c-41f9-4624-bd68-c047572363e2"
+    },
+    {
+      "start_time": 7800,
+      "end_time": 7920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Up from a past rooted in pain I rise. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "965ac762-e004-4e8f-8d5c-1df1e27dba8f"
     }
   ],
   "set": "Default",

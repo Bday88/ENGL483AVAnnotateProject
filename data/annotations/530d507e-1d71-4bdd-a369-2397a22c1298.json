@@ -482,6 +482,27 @@
         }
       ],
       "uuid": "c01c39b5-4da1-4ee0-8bb4-ef16a6d992a4"
+    },
+    {
+      "start_time": 6780,
+      "end_time": 7200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aw, does it come as a surprise that I dance? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "7924e3a4-5652-4c02-acfb-be6a1bfa8168"
     }
   ],
   "set": "Default",

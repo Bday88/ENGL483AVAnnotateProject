@@ -361,6 +361,39 @@
         }
       ],
       "uuid": "edfaca08-80cb-4ba7-806f-60307059a216"
+    },
+    {
+      "start_time": 5400,
+      "end_time": 5580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dont take it so hard cause I laugh (laugh) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "1d5bc107-6a1d-4289-bb20-a0a46840af5a"
     }
   ],
   "set": "Default",

@@ -99,6 +99,35 @@
         }
       ],
       "uuid": "8848c376-fa01-4e21-85c9-ad017cd038b8"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 2160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despite it all, black and white, asian, spanish, native american, the pretty, plain, thin, fat "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "7d05ad8f-c0c1-465f-88a2-e95c0018f09e"
     }
   ],
   "set": "Default",

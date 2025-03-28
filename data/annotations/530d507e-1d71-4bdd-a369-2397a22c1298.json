@@ -500,6 +500,10 @@
         {
           "category": "Poem",
           "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
         }
       ],
       "uuid": "7924e3a4-5652-4c02-acfb-be6a1bfa8168"

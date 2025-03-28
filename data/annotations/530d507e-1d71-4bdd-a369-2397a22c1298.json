@@ -458,6 +458,10 @@
         {
           "category": "Poem",
           "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
         }
       ],
       "uuid": "a4c785bb-6c78-4aca-8570-c6532324c1b3"

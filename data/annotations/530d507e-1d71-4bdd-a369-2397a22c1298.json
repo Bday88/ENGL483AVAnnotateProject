@@ -440,6 +440,27 @@
         }
       ],
       "uuid": "4e69287f-ce3a-4928-acf3-9d5ba8bcd10f"
+    },
+    {
+      "start_time": 6420,
+      "end_time": 6600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But just like life, I rise. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a4c785bb-6c78-4aca-8570-c6532324c1b3"
     }
   ],
   "set": "Default",

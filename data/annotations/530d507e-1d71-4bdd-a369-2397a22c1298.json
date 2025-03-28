@@ -644,6 +644,39 @@
         }
       ],
       "uuid": "a9dc86cc-8aa0-4f12-9434-68825e007eb9"
+    },
+    {
+      "start_time": 9660,
+      "end_time": 10260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so naturally, there I go rising."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "d53a867b-6d5e-4868-8d95-716557aa258f"
     }
   ],
   "set": "Default",

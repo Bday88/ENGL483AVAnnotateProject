@@ -394,6 +394,27 @@
         }
       ],
       "uuid": "1d5bc107-6a1d-4289-bb20-a0a46840af5a"
+    },
+    {
+      "start_time": 5520,
+      "end_time": 5940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As if I have gold mines diggin' in my own backyard"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "80ee1dc8-2754-45a5-be4f-b6b384c2ec62"
     }
   ],
   "set": "Default",

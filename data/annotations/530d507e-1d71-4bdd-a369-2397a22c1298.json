@@ -569,6 +569,27 @@
         }
       ],
       "uuid": "965ac762-e004-4e8f-8d5c-1df1e27dba8f"
+    },
+    {
+      "start_time": 7980,
+      "end_time": 8400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A black ocean, leaping and wide, welling and swelling, I bear in the tide. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "8976b251-32ae-4a17-9aee-2d444c98cc95"
     }
   ],
   "set": "Default",

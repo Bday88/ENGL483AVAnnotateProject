@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone in the world has gone to bed one night or another in fear, or pain or loss or disappointment. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "1e6a9abc-dbb8-4521-88e2-41a89233ddd8"
+    }
+  ],
   "set": "Default",
   "event_id": "ccd10e70-fe4c-4188-98a1-37c8221e400a",
   "source_id": "1151ff38-31ff-415a-b58f-e201d1e08147"

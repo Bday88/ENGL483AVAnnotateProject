@@ -232,6 +232,22 @@
         }
       ],
       "uuid": "507885bc-c147-4fd8-bda8-40504ec6a729"
+    },
+    {
+      "start_time": 3360,
+      "end_time": 3840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why are you beset with gloom, just cause I walk like I've got oil wells in my living room?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d4358808-054a-45f9-a100-27115918398a"
     }
   ],
   "set": "Default",

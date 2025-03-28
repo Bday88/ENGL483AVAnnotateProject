@@ -128,6 +128,27 @@
         }
       ],
       "uuid": "7d05ad8f-c0c1-465f-88a2-e95c0018f09e"
+    },
+    {
+      "start_time": 2160,
+      "end_time": 2460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vow to celebrate; we rise. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b4b68d7b-689a-4c8e-9b81-2610db6f9f1d"
     }
   ],
   "set": "Default",

@@ -253,6 +253,27 @@
         }
       ],
       "uuid": "d4358808-054a-45f9-a100-27115918398a"
+    },
+    {
+      "start_time": 3840,
+      "end_time": 4200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just like suns and moons, with the certainess of tides, still I rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "5074e5c9-bf60-4e76-940e-d76a908a75a2"
     }
   ],
   "set": "Default",

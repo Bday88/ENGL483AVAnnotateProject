@@ -615,6 +615,35 @@
         }
       ],
       "uuid": "0f777e88-13d9-4039-a46b-2db6bbdccd38"
+    },
+    {
+      "start_time": 9060,
+      "end_time": 9600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bringing the gifts that my ancestors gave, I am the hope and the dream of the slave."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "a9dc86cc-8aa0-4f12-9434-68825e007eb9"
     }
   ],
   "set": "Default",

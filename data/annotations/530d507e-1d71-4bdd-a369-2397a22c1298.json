@@ -479,6 +479,14 @@
         {
           "category": "Poem",
           "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
         }
       ],
       "uuid": "c01c39b5-4da1-4ee0-8bb4-ef16a6d992a4"

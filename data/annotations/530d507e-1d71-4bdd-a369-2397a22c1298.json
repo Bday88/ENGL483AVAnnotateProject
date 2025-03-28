@@ -92,7 +92,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
       "uuid": "8848c376-fa01-4e21-85c9-ad017cd038b8"
     }
   ],

@@ -461,6 +461,27 @@
         }
       ],
       "uuid": "a4c785bb-6c78-4aca-8570-c6532324c1b3"
+    },
+    {
+      "start_time": 6600,
+      "end_time": 6780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does my sexiness offend you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "c01c39b5-4da1-4ee0-8bb4-ef16a6d992a4"
     }
   ],
   "set": "Default",

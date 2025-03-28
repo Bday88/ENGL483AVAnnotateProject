@@ -303,6 +303,31 @@
         }
       ],
       "uuid": "5987617e-5c27-4fce-920b-f0213dbeba4a"
+    },
+    {
+      "start_time": 4740,
+      "end_time": 5100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shoulders falling down like teardrops, weakened by my soulful cries"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "65da1219-874e-4d60-a72d-2f544b0f3064"
     }
   ],
   "set": "Default",

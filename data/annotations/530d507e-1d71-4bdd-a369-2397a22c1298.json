@@ -149,6 +149,31 @@
         }
       ],
       "uuid": "b4b68d7b-689a-4c8e-9b81-2610db6f9f1d"
+    },
+    {
+      "start_time": 2460,
+      "end_time": 2820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You may write me down in history with your bitter, twisted lies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "270f9857-9cb2-41b8-816f-6b15466359aa"
     }
   ],
   "set": "Default",

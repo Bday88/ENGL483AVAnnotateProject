@@ -415,6 +415,31 @@
         }
       ],
       "uuid": "80ee1dc8-2754-45a5-be4f-b6b384c2ec62"
+    },
+    {
+      "start_time": 6000,
+      "end_time": 6420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can shoot me with your words. You can cut me with your lies. You can kill me with your hatefulness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "4e69287f-ce3a-4928-acf3-9d5ba8bcd10f"
     }
   ],
   "set": "Default",

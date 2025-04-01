@@ -363,8 +363,8 @@
       "uuid": "edfaca08-80cb-4ba7-806f-60307059a216"
     },
     {
-      "start_time": 5400,
-      "end_time": 5580,
+      "start_time": 90,
+      "end_time": 93,
       "annotation": [
         {
           "type": "paragraph",

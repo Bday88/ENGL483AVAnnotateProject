@@ -417,8 +417,8 @@
       "uuid": "80ee1dc8-2754-45a5-be4f-b6b384c2ec62"
     },
     {
-      "start_time": 6000,
-      "end_time": 6420,
+      "start_time": 100,
+      "end_time": 107,
       "annotation": [
         {
           "type": "paragraph",
